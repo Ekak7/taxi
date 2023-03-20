@@ -1,0 +1,15 @@
+D:\tugas pemograman\Taxi\Taxi\obj\Debug\net7.0\Taxi.csproj.AssemblyReference.cache
+D:\tugas pemograman\Taxi\Taxi\obj\Debug\net7.0\Taxi.GeneratedMSBuildEditorConfig.editorconfig
+D:\tugas pemograman\Taxi\Taxi\obj\Debug\net7.0\Taxi.AssemblyInfoInputs.cache
+D:\tugas pemograman\Taxi\Taxi\obj\Debug\net7.0\Taxi.AssemblyInfo.cs
+D:\tugas pemograman\Taxi\Taxi\obj\Debug\net7.0\Taxi.csproj.CoreCompileInputs.cache
+D:\tugas pemograman\Taxi\Taxi\bin\Debug\net7.0\Taxi.exe
+D:\tugas pemograman\Taxi\Taxi\bin\Debug\net7.0\Taxi.deps.json
+D:\tugas pemograman\Taxi\Taxi\bin\Debug\net7.0\Taxi.runtimeconfig.json
+D:\tugas pemograman\Taxi\Taxi\bin\Debug\net7.0\Taxi.dll
+D:\tugas pemograman\Taxi\Taxi\bin\Debug\net7.0\Taxi.pdb
+D:\tugas pemograman\Taxi\Taxi\obj\Debug\net7.0\Taxi.dll
+D:\tugas pemograman\Taxi\Taxi\obj\Debug\net7.0\refint\Taxi.dll
+D:\tugas pemograman\Taxi\Taxi\obj\Debug\net7.0\Taxi.pdb
+D:\tugas pemograman\Taxi\Taxi\obj\Debug\net7.0\Taxi.genruntimeconfig.cache
+D:\tugas pemograman\Taxi\Taxi\obj\Debug\net7.0\ref\Taxi.dll
